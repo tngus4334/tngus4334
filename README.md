@@ -2,7 +2,9 @@
 
 - Pukyong Nation University, Statistics & Data Science
 - Data Analyst, Business Analyst
+- 
 ---
+
 <h3>🛠Skill set
 ---
 <h3>🚀Main</h3> 
