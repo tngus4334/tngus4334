@@ -7,4 +7,4 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></div>
 
 
-<div align=center><h2>🛠Tech Stack🛠</h2></div>
+<h2>🛠Tech Stack🛠</h2>
