@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8B195&height=250&section=header&text=%20♥Welcome♥&fontSize=70&fontAlignY=30&desc=Suhyeon's%20Github&descSize=25&descAlign=80&descAlignY=50)
-
 <div align=center><h3>🛠Tech Stack🛠</h3>
-
 <h3>🛠Main🛠</h3> 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
