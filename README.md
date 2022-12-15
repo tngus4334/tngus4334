@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
-<h3>🛠Subk🛠</h3> 
+<h3>🛠Sub🛠</h3> 
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
