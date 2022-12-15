@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=F8B195&height=300&section=header&text=%20♥Welcome!♥&fontSize=70&desc=I'm%20Suhyeon)
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=F8B195&height=270&section=header&text=%20♥Welcome♥&fontSize=70&fontAlignY=30&desc=Suhyeon's%20Github&descSize=25&descAlign=80&descAlignY=50)
 
 <div align=center><h2>🛠Tech Stack🛠</h2></div>
 main
