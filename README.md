@@ -2,7 +2,7 @@
 
 <div align=center><h2>🛠Tech Stack🛠</h2></div>
 
-<div align=center><h3>💻Main Tech stack💻</h3></div>
+<a><div align=center><h3>💻Main Tech stack💻</h3></div></a>
 
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
