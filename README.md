@@ -2,7 +2,7 @@
 
 - Pukyong Nation University, Statistics & Data Science
 - Data Analyst, Business Analyst
-
+<br>
 
 
 ## 🚀Main Skill Set
@@ -19,11 +19,10 @@
 <br>
 
 ## 💻baekjoon
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus4334)](https://solved.ac/tngus4334)
 <br>
-## 🐾GitHub stats
 
+## 🐾GitHub stats
 ![tngus4334's GitHub stats](https://github-readme-stats.vercel.app/api?username=tngus4334&show_icons=true&theme=onedark)
 </div>
 
