@@ -10,5 +10,5 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></div>
 
 <div align=center><h3>💻Sub Tech stack💻</h3></div>
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></div>
 
