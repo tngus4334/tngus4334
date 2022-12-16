@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8B195&height=250&section=header&text=%20♥Welcome♥&fontSize=70&fontAlignY=30&desc=Suhyeon's%20Github&descSize=25&descAlign=80&descAlignY=50)
 
-- Pukyong Nation University, Statistics & Data Science
+- Pukyong National University, Statistics & Data Science
 - Data Analyst, Business Analyst
 <br>
 
