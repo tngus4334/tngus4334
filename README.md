@@ -25,6 +25,7 @@
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 - <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=Power BI&logoColor=white"/>
 
 ## 💻baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus4334)](https://solved.ac/tngus4334)
