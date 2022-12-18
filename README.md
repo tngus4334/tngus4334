@@ -4,8 +4,6 @@
 - Data Analyst, Business Analyst
 <br>
 
-## 🔗Link
-<a href="https://velog.io/@tngus4334"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@tngus4334"/></a>
 
 ## 🤭I'm interested in
 - 🍸Cocktail
