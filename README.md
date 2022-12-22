@@ -21,7 +21,7 @@
 
 ## 🚀Sub Skill Set
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+- <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=SQL&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
 <br>
 
