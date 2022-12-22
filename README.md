@@ -8,7 +8,7 @@
 ## 🤭I'm interested in
 - 🍸Cocktail
 - ⛰Hiking
-- 🎶Dancing
+- 🍳Cooking
 <br>
 
 ## 🚀Main Skill Set
