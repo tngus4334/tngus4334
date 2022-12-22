@@ -8,7 +8,7 @@
 
 
 ## 🤭I'm interested in
-- 🍸Cocktail : I got a certificate of Craftsman Bartende
+- 🍸Cocktail : I got a certificate of Craftsman Bartender
 - 🍳Cooking : My best dish is sweet and sour pork
 - 🎧️DJing : I once did a DJ performance in a club
 <br>
