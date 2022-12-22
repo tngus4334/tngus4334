@@ -8,10 +8,9 @@
 
 
 ## 🤭I'm interested in
-- 🍸Cocktail
-- ⛰Hiking
-- 🍳Cooking
-- 🎧️DJing
+- 🍸Cocktail : I got a certificate of Craftsman Bartende
+- 🍳Cooking : My best dish is sweet and sour pork
+- 🎧️DJing : I once did a DJ performance in a club
 <br>
 
 ## 🚀Main Skill Set
