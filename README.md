@@ -2,7 +2,7 @@
 
 
 - Pukyong National University, major in Statistics & Data Science (2018.03~2023.02)
-- ideaware, intern as a data operation & Verification (2022.11~)
+- ideaware, intern as a data operation & verification (2022.11~)
 - Data Analyst
 <br>
 
