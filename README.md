@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8B195&height=250&section=header&text=%20♥Welcome♥&fontSize=70&fontAlignY=30&desc=Suhyeon's%20Github&descSize=25&descAlign=80&descAlignY=50)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftngus4334&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23CBEFDF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - Pukyong National University, major in Statistics & Data Science (2018.03~2023.02)
 - ideaware, intern as a data operation & verification (2022.11~)
