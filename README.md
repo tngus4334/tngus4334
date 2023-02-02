@@ -8,8 +8,8 @@
 
 ## 🤭I'm interested in
 - 🍸Cocktail : I got a certificate of Craftsman Bartender
-- 🍳Cooking : My best dish is sweet and sour pork
-- 🎧️DJing : I once did a DJ performance in a club
+- 🍳Cooking : When I lived in a shared residence, I often cooked for my friend !
+- 🚲 Spinning : I go to spinning after work.
 <br>
 
 ## 🚀Main Skill Set
