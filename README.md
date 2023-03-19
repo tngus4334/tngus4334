@@ -9,7 +9,6 @@
 ## 🤭I'm interested in
 - 🍸Cocktail : I got a certificate of Craftsman Bartender
 - 🍳Cooking : When I lived in a shared residence, I often cooked for my friend !
-- 🚲 Spinning : I go to spinning after work.
 <br>
 
 ## 🚀Main Skill Set
