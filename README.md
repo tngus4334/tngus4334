@@ -7,6 +7,7 @@
 ## 🙆‍ I'm interested in
 - E-commerce & CRM
 - Visualization
+<br>
 
 ## 🤭 My hobby is
 - 🍸Cocktail : I got a certificate of Craftsman Bartender
