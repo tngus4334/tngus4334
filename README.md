@@ -2,11 +2,13 @@
 
 - Pukyong National University, major in Statistics & Data Science (2018.03~2023.02)
 - ideaware, intern as a data operation & verification (2022.11~)
-- Data Analyst
 <br>
 
+## 🙆‍ I'm interested in
+- E-commerce & CRM
+- Visualization
 
-## 🤭I'm interested in
+## 🤭 My hobby is
 - 🍸Cocktail : I got a certificate of Craftsman Bartender
 - 🍳Cooking : When I lived in a shared residence, I often cooked for my friend !
 <br>
