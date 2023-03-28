@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8B195&height=250&section=header&text=%20♥Welcome♥&fontSize=70&fontAlignY=30&desc=Suhyeon's%20Github&descSize=25&descAlign=80&descAlignY=50)
 
+## 📗 Education & Work Experience
 - Pukyong National University, major in Statistics & Data Science (2018.03~2023.02)
 - ideaware, intern as a data operation & verification (2022.11~)
 <br>
