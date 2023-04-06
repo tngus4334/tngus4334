@@ -33,8 +33,6 @@
 - <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
 <br>
 
-## 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftngus4334&count_bg=%23E1ACE7&title_bg=%23555555&icon=python.svg&icon_color=%23E1ACE7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 💻baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus4334)](https://solved.ac/tngus4334)
